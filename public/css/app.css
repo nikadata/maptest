@@ -1,0 +1,15 @@
+.error
+{
+    color: red;
+}
+td.details-control {
+    background: url('../images/details_open.png') no-repeat center center;
+    cursor: pointer;
+}
+tr.details td.details-control {
+    background: url('../images/details_close.png') no-repeat center center;
+}
+body {
+  padding-left: 1em;
+  padding-right: 1.5em;
+}
